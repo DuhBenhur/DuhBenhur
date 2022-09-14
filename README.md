@@ -1,7 +1,7 @@
  Oi, eu sou o Edu :blush: 
  
- :books: sou tecnologo em processos de produção (FATEC-SP)<br/> 
- :books::books: também sou engenheiro mecânico (FEFAAP)<br/> 
+ :books: Sou tecnologo em processos de produção (FATEC-SP)<br/> 
+ :books::books: Também sou engenheiro mecânico (FEFAAP)<br/> 
  :books::books::books: E possuo MBA em Data Science e Analytics (USP-ESALQ)<br/> 
  :office: Atualmente trabalho na área de marketing digital e analytics<br/> 
  :computer: Estudando R e SQL <br/> 
