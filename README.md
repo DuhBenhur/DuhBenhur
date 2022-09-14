@@ -1,4 +1,4 @@
- Oi, eu sou o Edu :blush: :smile: :fire: :fist:
+ Oi, eu sou o Edu :blush: :smile: :fire: ✊🏿
  
  :books: Sou tecnologo em processos de produção (FATEC-SP)<br/> 
  :books::books: Também sou engenheiro mecânico (FEFAAP)<br/> 
