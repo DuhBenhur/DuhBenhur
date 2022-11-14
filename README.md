@@ -23,7 +23,7 @@ Interesses em geral:<br/>
 📡 Engenharia (mecânica/computação)<br/> 
 💻 Programação<br/> 
 📊 Análise/Ciência de dados<br/> 
-:date:- Epoch timestamp: 624318000 - Local Time<br/>
+:date::birthday: Aniversário - Epoch timestamp: 624318000 - Local Time<br/>
 
 
 <!--
