@@ -14,7 +14,8 @@
  :computer: R<br/> 
  :computer:SQL <br/>
 :books: Machine Learning <br/> 
- :saxophone: Voltando a estudar sax nas horas vagas :v::v:<br/> 
+ :saxophone: Voltando a estudar sax nas horas vagas :v::v:<br/>
+ :date::birthday: Aniversário - Epoch timestamp: 624318000 - Local Time<br/>
  <br/> <br/> 
  :heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign:
 <br/> <br/> 
@@ -23,7 +24,7 @@ Interesses em geral:<br/>
 📡 Engenharia (mecânica/computação)<br/> 
 💻 Programação<br/> 
 📊 Análise/Ciência de dados<br/> 
-:date::birthday: Aniversário - Epoch timestamp: 624318000 - Local Time<br/>
+
 
 
 <!--
