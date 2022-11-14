@@ -24,6 +24,7 @@ Interesses em geral:<br/>
 💻 Programação<br/> 
 📊 Análise/Ciência de dados<br/> 
 
+Aniversário - Epoch timestamp: 624318000 - Local Time
 
 <!--
 **DuhBenhur/DuhBenhur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
