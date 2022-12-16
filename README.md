@@ -22,7 +22,7 @@
 Interesses em geral:<br/> 
 🔬 Ciência<br/> 
 📡 Engenharia (mecânica/computação)<br/> 
-💻 Programação<br/> 
+💻 Apredizados em Programação<br/> 
 📊 Análise/Ciência de dados<br/> 
 
 
