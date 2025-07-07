@@ -95,14 +95,14 @@
 |---------|-----------|------------|
 | 📊 **Análise Renda Brasil** | Pesquisa acadêmica com modelagem multinível | Python, R, Pandas, Estatística |
 | 🤖 **ML Predictor** | Modelo de machine learning para previsões | Python, Scikit-learn, Pandas |
-| 📈 **Data Viz Collection** | Coleção de visualizações criativas | R, ggplot2, D3.js |
+| 📈 **Data Viz Collection** | Coleção de visualizações criativas | R, ggplot2, Power BI, Looker Studio |
 
 </div>
 
 ## 🎓 Formação & Certificações
 
 ### 📚 **Educação Formal**
-- 🎓 **MBA** em Data Science e Analytics (USP-ESALQ) - *Em andamento*
+- 🎓 **MBA** em Data Science e Analytics (USP-ESALQ) - *Concluído*
 - 🎓 **MBA** em Digital Business (USP-ESALQ) - *Concluído*
 - 🔧 **Tecnólogo** em Processos de Produção (FATEC-SP)
 - ⚙️ **Bacharel** em Engenharia Mecânica (FEFAAP)
@@ -117,11 +117,11 @@
 
 ```python
 learning_goals_2025 = {
-    "backend": ["Node.js", "Express", "PostgreSQL"],
-    "cloud": ["AWS", "Docker", "Kubernetes"],
-    "ai_ml": ["Deep Learning", "TensorFlow", "PyTorch"],
-    "research": ["Econometria Avançada", "Causal Inference"],
-    "goals": ["Contribuir para projetos open source", "Publicar mais artigos"]
+    "backend": ["Node.js", "PostgreSQL"],
+    "cloud": ["AWS", "GLUE", "StepFunctions"],
+    "ai_ml": ["Deep Learning", "TensorFlow", " Deploy de modelos"],
+    "research": ["Econometria", "Causal Inferenc","Qualidade dos dados", "Engenharia de Softwares para cientistas de dados"],
+    "goals": ["Contribuir para projetos open source", "Publicar mais projetos ou artigos", "Ser um pesquisador e estudante melhor do que fui no ano passado"]
 }
 ```
 
