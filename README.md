@@ -1,7 +1,7 @@
  # Oi, eu sou o Eduardo! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Data+Science+%26+Analytics;Full+Stack+Developer;React+%2B+TypeScript;Python+%2B+Machine+Learning;Pesquisador+Acadêmico;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Data+Science+%26+Analytics;React+%2B+TypeScript;Python+%2B+Machine+Learning;R+%2B+Data+Science;Pesquisador+Acadêmico;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre mim
