@@ -52,6 +52,9 @@
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Tidyverse](https://img.shields.io/badge/-Tidyverse-1E88E5?style=flat-square&logo=r&logoColor=white)
+![ggplot2](https://img.shields.io/badge/-ggplot2-F76D74?style=flat-square&logo=r&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -120,7 +123,7 @@ learning_goals_2025 = {
     "backend": ["Node.js", "PostgreSQL"],
     "cloud": ["AWS", "GLUE", "StepFunctions"],
     "ai_ml": ["Deep Learning", "TensorFlow", " Deploy de modelos"],
-    "research": ["Econometria", "Causal Inferenc","Qualidade dos dados", "Engenharia de Softwares para cientistas de dados"],
+    "research": ["Econometria", "Causal Inference","Qualidade dos dados", "Engenharia de Softwares para cientistas de dados"],
     "goals": ["Contribuir para projetos open source", "Publicar mais projetos ou artigos", "Ser um pesquisador e estudante melhor do que fui no ano passado"]
 }
 ```
