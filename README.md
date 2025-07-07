@@ -1,17 +1,43 @@
 # Oi, eu sou o Eduardo! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Data+Science+%26+Analytics;Full+Stack+Developer;React+%2B+TypeScript;Python+%2B+Machine+Learning;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Data+Science+%26+Analytics;Full+Stack+Developer;React+%2B+TypeScript;Python+%2B+Machine+Learning;Pesquisador+Acadêmico;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre mim
 
-- 🎬 **Projeto em destaque:** [QualPlay](link) - App completo de filmes com React + TypeScript
+- 🎬 **Projeto em destaque:** [QualPlay](https://qualplay.netlify.app) - App completo de filmes com React + TypeScript + Assistido por IA na criação
+- 📄 **Pesquisador:** Autor de artigo científico publicado em revista **Qualis B1** sobre renda familiar no Brasil
 - 📊 **Paixão:** Transformar dados em insights e criar soluções que fazem diferença
-- 🎓 **Formação:** Tecnólogo em Processos de Produção + Pós em Data Science
+- 🎓 **Formação:** Tecnólogo em Processos de Produção, Engenharia Mecânica + MBA em Data Science e MBA em Digital Business
 - 🔧 **Background:** Engenharia Mecânica + MBA em Data Science & Analytics
-- 🌱 **Atualmente:** Mergulhando fundo em desenvolvimento web moderno
-- ⚡ **Fun fact:** Adoro criar projetos que combinam tecnologia com entretenimento!
+- 🌱 **Atualmente:** Mergulhando fundo em análise de dados, AWS, pipeline de dados, IA Generativa e outros bichos
+- ⚡ **Fun fact:** Adoro criar projetos que combinam tecnologia com entretenimento e análise de dados!
+
+## 📄 Produção Acadêmica
+
+### 🏆 **Artigo Científico Publicado (2025)**
+**"Efeitos das unidades federativas na renda disponível per capita por domicílio: uma análise multinível"**
+
+📍 **Publicado em:** Revista Científica Qualis B1 - Área: Ciências Aplicadas  
+🔗 **Link:** [https://revista.ipecege.com/quaestum/article/view/824](https://revista.ipecege.com/quaestum/article/view/824)
+
+#### 🎯 **Principais Contribuições:**
+- 📊 **Metodologia:** Regressão multinível com microdados POF 2017-2018 (IBGE)
+- 🎓 **Descoberta-chave:** Impacto diferenciado da educação entre estados brasileiros
+- 🍽️ **Insight social:** Correlação significativa entre segurança alimentar e renda
+- 🗺️ **Inovação:** Agrupamento de UFs em 3 clusters por perfis socioeconômicos
+- 📈 **Impacto:** Evidências para políticas públicas regionalizadas
+
+#### 💡 **Resumo dos Achados:**
+```
+✅ Educação é fundamental: +1 ano de estudo = impacto positivo significativo na renda
+✅ Segurança Alimentar importa: Insegurança alimentar reduz drasticamente a renda familiar  
+✅ Contexto regional decisivo: O "retorno" da educação varia entre estados
+✅ Clusters identificados: 3 grupos distintos de UFs com padrões únicos
+```
+
+> *"Este trabalho representa a aplicação prática dos conhecimentos em Data Science para questões sociais relevantes, demonstrando como análise de dados pode informar políticas públicas mais eficazes."*
 
 ## 🛠️ Tech Stack
 
@@ -42,10 +68,12 @@
 ## 🎬 Projeto em Destaque: QualPlay
 
 <div align="center">
-  <img src="screenshot-qualplay.png" alt="QualPlay Screenshot" width="600"/>
+  <img src="https://img.shields.io/badge/Status-🚀_Live_Demo-success?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Tipo-Full_Stack_App-blue?style=for-the-badge" alt="Tipo" />
+  <img src="https://img.shields.io/badge/Complexidade-Avançada-red?style=for-the-badge" alt="Complexidade" />
 </div>
 
-**Uma aplicação completa para descobrir e analisar filmes!**
+**Uma aplicação completa para descobrir e analisar filmes cocriada com IA Generativa!**
 
 🔥 **Features:**
 - 🔍 Busca avançada com filtros inteligentes
@@ -55,9 +83,9 @@
 - 📄 Exportação PDF profissional
 - 🎬 Links diretos para streaming
 
-🛠️ **Tech:** React, TypeScript, Tailwind CSS, Chart.js, TMDB API
+🛠️ **Tech:** React, TypeScript, Tailwind CSS, Chart.js, TMDB API, Bolt.new
 
-[🚀 Ver Demo](link) | [📖 Código](link)
+[🚀 Ver Demo](https://qualplay.netlify.app/) | [📖 Código](https://github.com/DuhBenhur/QualPlay)
 
 ## 🌟 Outros Projetos
 
@@ -65,26 +93,66 @@
   
 | Projeto | Descrição | Tech Stack |
 |---------|-----------|------------|
-| 📊 **Analytics Dashboard** | Dashboard interativo para análise de dados | Python, Streamlit, Plotly |
+| 📊 **Análise Renda Brasil** | Pesquisa acadêmica com modelagem multinível | Python, R, Pandas, Estatística |
 | 🤖 **ML Predictor** | Modelo de machine learning para previsões | Python, Scikit-learn, Pandas |
 | 📈 **Data Viz Collection** | Coleção de visualizações criativas | R, ggplot2, D3.js |
 
 </div>
+
+## 🎓 Formação & Certificações
+
+### 📚 **Educação Formal**
+- 🎓 **MBA** em Data Science e Analytics (USP-ESALQ) - *Em andamento*
+- 🎓 **MBA** em Digital Business (FATEC-SP) - *Concluído*
+- 🔧 **Tecnólogo** em Processos de Produção (FATEC-SP)
+- ⚙️ **Bacharel** em Engenharia Mecânica (FEFAAP)
+
+### 🏆 **Conquistas Acadêmicas**
+- 📄 **Autor** de artigo científico em revista Qualis B1
+- 📊 **Especialista** em análise de dados e digital business
+- 🤖 **Praticante** de machine learning e modelagem estatística
+- 🔬 **Pesquisador** em políticas públicas e desenvolvimento regional
+
+## 🌱 Atualmente Aprendendo
+
+```python
+learning_goals_2025 = {
+    "backend": ["Node.js", "Express", "PostgreSQL"],
+    "cloud": ["AWS", "Docker", "Kubernetes"],
+    "ai_ml": ["Deep Learning", "TensorFlow", "PyTorch"],
+    "research": ["Econometria Avançada", "Causal Inference"],
+    "goals": ["Contribuir para projetos open source", "Publicar mais artigos"]
+}
+```
 
 ## 📫 Vamos conversar?
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardobenhur)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eduardobenhur1)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo.benhur@gmail.com)
+[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-2778-1566)
+
 
 </div>
+
+## 🏆 Conquistas 2025
+
+- ✅ **Primeiro artigo científico** publicado em revista Qualis B1
+- ✅ **Primeiro projeto React + TypeScript + Gen AI** completo (QualPlay)
+- ✅ **3.000+ linhas** de código TypeScript profissional
+- ✅ **Sistema de analytics** com 8 tipos de visualizações
+- ✅ **Deploy automatizado** com CI/CD
+- ✅ **Integração com APIs** externas (TMDB)
+- ✅ **Pesquisa com impacto social** (renda familiar brasileira)
+- 🎯 **Próximo:** Contribuir para projetos open source e publicar mais pesquisas
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=DuhBenhur&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
   
-  **"Dados contam histórias, código resolve problemas, e eu adoro fazer os dois!"** 📊💻
+  **"Dados contam histórias, código resolve problemas, e pesquisa transforma sociedades!"** 📊💻🔬
+  
+  *Transformando curiosidade em código e insights em impacto real desde 2017* ✨
 </div>
