@@ -1,4 +1,4 @@
-# Oi, eu sou o Eduardo! 👋
+ # Oi, eu sou o Eduardo! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Data+Science+%26+Analytics;Full+Stack+Developer;React+%2B+TypeScript;Python+%2B+Machine+Learning;Pesquisador+Acadêmico;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
@@ -103,7 +103,7 @@
 
 ### 📚 **Educação Formal**
 - 🎓 **MBA** em Data Science e Analytics (USP-ESALQ) - *Em andamento*
-- 🎓 **MBA** em Digital Business (FATEC-SP) - *Concluído*
+- 🎓 **MBA** em Digital Business (USP-ESALQ) - *Concluído*
 - 🔧 **Tecnólogo** em Processos de Produção (FATEC-SP)
 - ⚙️ **Bacharel** em Engenharia Mecânica (FEFAAP)
 
