@@ -97,7 +97,7 @@ Estou documentando em público minha trilha de certificações AWS rumo a **Data
 ### 🗳️ Urna em Camadas
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-🌐_Site_no_ar-success?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-%F0%9F%8C%90_Site_no_ar-success?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/Tipo-Data_Science_%2B_Web-blue?style=for-the-badge" alt="Tipo" />
   <img src="https://img.shields.io/badge/Escala-497.897_urnas-purple?style=for-the-badge" alt="Escala" />
 </div>
