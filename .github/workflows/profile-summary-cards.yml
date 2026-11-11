@@ -1,0 +1,25 @@
+# Gera os cards de estatísticas do perfil (salvos em profile-summary-card-output/)
+name: Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # todo dia às 06:00 UTC (03:00 em Brasília)
+  workflow_dispatch: # permite rodar manualmente pela aba Actions
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      # fixado no commit exato da v0.13.0 (tag pode ser movida; commit não)
+      - uses: vn7n24fzkq/github-profile-summary-cards@7022eb6bd48de38b092f54110a8ff8185f2ac4a1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          TIME_ZONE: "America/Sao_Paulo"
+          THEME: "tokyonight"
