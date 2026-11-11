@@ -1,7 +1,7 @@
  # Oi, eu sou o Eduardo! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Data+Science+%26+Analytics;React+%2B+TypeScript;Python+%2B+Machine+Learning;R+%2B+Data+Science;Pesquisa+Acadêmica;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Data+Science+%26+ML+Engineering;Rumo+a+especialista+AWS;Python+%2B+Machine+Learning;React+%2B+TypeScript;R+%2B+Data+Science;Pesquisa+Acadêmica;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre mim
@@ -11,8 +11,25 @@
 - 📊 **Paixão:** Transformar dados em insights e criar soluções que fazem diferença
 - 🎓 **Formação:** Tecnólogo em Processos de Produção, Engenharia Mecânica + MBA em Data Science e MBA em Digital Business
 - 🔧 **Background:** Engenharia Mecânica + MBA em Data Science & Analytics
-- 🌱 **Atualmente:** Mergulhando fundo em análise de dados, AWS, pipeline de dados, IA Generativa e outros bichos
+- 🌱 **Atualmente:** Em transição para **Data Science & ML Engineering**, estudando para a trilha de certificações AWS. Começando pela **Cloud Practitioner (CLF-C02)**
 - ⚡ **Fun fact:** Adoro criar projetos que combinam tecnologia com entretenimento e análise de dados!
+
+## ☁️ Agora: AWS Certification Journey
+
+Estou documentando em público minha trilha de certificações AWS rumo a **Data Science, Machine Learning e IA Generativa**: anotações, labs práticos e simulados, do primeiro dia até a última prova.
+
+<div align="center">
+
+| Cloud Practitioner | AI Practitioner | AI Business Strategist | ML Engineer | Solutions Architect | GenAI Developer | Security |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 📚 | 🔜 | 🔜 | 🔜 | 🔜 | 🔜 | 🔜 |
+| *Foundational* | *Foundational* | *Business* | *Associate* | *Associate* | *Professional* | *Specialty* |
+
+<sub>📚 estudando · 🔜 planejada · ✅ certificado</sub>
+
+[![Acompanhe a jornada](https://img.shields.io/badge/Acompanhe_a_jornada-aws--certification--journey-FF9900?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DuhBenhur/aws-certification-journey)
+
+</div>
 
 ## 📄 Produção Acadêmica
 
@@ -56,7 +73,12 @@
 ![ggplot2](https://img.shields.io/badge/-ggplot2-F76D74?style=flat-square&logo=r&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
+### Cloud
+![AWS](https://img.shields.io/badge/-%E2%98%81_AWS-232F3E?style=flat-square)
+![boto3](https://img.shields.io/badge/-boto3-FF9900?style=flat-square&logo=python&logoColor=white)
+
 ### Tools & Platforms
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
@@ -110,6 +132,10 @@
 - 🔧 **Tecnólogo** em Processos de Produção (FATEC-SP)
 - ⚙️ **Bacharel** em Engenharia Mecânica (FEFAAP)
 
+### ☁️ **Certificações AWS**
+- 📚 **AWS Certified Cloud Practitioner (CLF-C02)**: *em preparação*
+- 🎯 **Próximas:** AI Practitioner, Machine Learning Engineer, Generative AI Developer e outras ([trilha completa](https://github.com/DuhBenhur/aws-certification-journey))
+
 ### 🏆 **Conquistas Acadêmicas**
 - 📄 **Autor** de artigo científico em revista Qualis B1
 - 📊 **Especialista** em análise de dados e digital business
@@ -119,10 +145,10 @@
 ## 🌱 Atualmente Aprendendo
 
 ```python
-learning_goals_2025 = {
+learning_goals_2026 = {
     "backend": ["Node.js", "PostgreSQL"],
-    "cloud": ["AWS", "GLUE", "StepFunctions"],
-    "ai_ml": ["Deep Learning", "TensorFlow", " Deploy de modelos"],
+    "cloud": ["AWS Cloud Practitioner", "SageMaker", "Bedrock", "Glue", "Step Functions"],
+    "ai_ml": ["Deep Learning", "TensorFlow", "Deploy de modelos", "MLOps na AWS"],
     "research": ["Econometria", "Causal Inference","Qualidade dos dados", "Engenharia de Softwares para cientistas de dados"],
     "goals": ["Contribuir para projetos open source", "Publicar mais projetos ou artigos", "Ser um pesquisador e estudante melhor do que fui no ano passado"]
 }
