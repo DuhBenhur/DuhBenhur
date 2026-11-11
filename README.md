@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mim
 
-- 🎬 **Projeto em destaque:** [QualPlay](https://qualplay.netlify.app) - App completo de filmes com React + TypeScript + Assistido por IA na criação
+- 🌟 **Projetos em destaque:** [Urna em Camadas](https://duhbenhur.github.io/urna-em-camadas/) (análise multinível e espacial de 497 mil urnas da eleição de 2026) e [QualPlay](https://qualplay.netlify.app) (app de filmes com React + TypeScript, cocriado com IA)
 - 📄 **Pesquisador:** Autor de artigo científico publicado em revista **Qualis B1** sobre renda familiar no Brasil
 - 📊 **Paixão:** Transformar dados em insights e criar soluções que fazem diferença
 - 🎓 **Formação:** Tecnólogo em Processos de Produção, Engenharia Mecânica + MBA em Data Science e MBA em Digital Business
@@ -86,11 +86,37 @@ Estou documentando em público minha trilha de certificações AWS rumo a **Data
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DuhBenhur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuhBenhur&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DuhBenhur&theme=tokyonight" alt="GitHub Stats"/>
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DuhBenhur&theme=tokyonight" alt="Top Languages by Commit"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=DuhBenhur&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-## 🎬 Projeto em Destaque: QualPlay
+## 🌟 Projetos em Destaque
+
+### 🗳️ Urna em Camadas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-🌐_Site_no_ar-success?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Tipo-Data_Science_%2B_Web-blue?style=for-the-badge" alt="Tipo" />
+  <img src="https://img.shields.io/badge/Escala-497.897_urnas-purple?style=for-the-badge" alt="Escala" />
+</div>
+
+**Análise multinível e espacial da eleição presidencial de 2026, urna por urna, com dados públicos do TSE, IBGE, MDS e MDIC.**
+
+🔥 **Destaques:**
+- 🗳️ **497.897 urnas** conferidas uma a uma com o resultado oficial do TSE
+- 📊 **Regressão multinível** (estado → município → local de votação → seção) com estratégia *step-up* e decomposição pelo **valor de Shapley**
+- 🗺️ **Análise espacial:** Moran, LISA, regionalização SKATER e processo gaussiano nas coordenadas
+- ✅ **Pipeline reprodutível com validação:** o site só é publicado se as contas fecharem (CI/CD com GitHub Actions)
+- 🌐 **Site interativo** com mapas e dados estáticos particionados por município
+- 📄 Aplica o método multinível do meu artigo publicado (Qualis B1) a um novo problema
+
+🛠️ **Tech:** Python, pandas, gpboost, geopandas, PySAL, Jupyter, React, TypeScript, Vite, MapLibre, GitHub Actions
+
+[🌐 Ver Site](https://duhbenhur.github.io/urna-em-camadas/) | [📖 Código](https://github.com/DuhBenhur/urna-em-camadas)
+
+### 🎬 QualPlay
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-🚀_Live_Demo-success?style=for-the-badge" alt="Status" />
